@@ -1,11 +1,24 @@
 # Usecase
 
-Design a system for banking. The features include:
+Design a system for banking. Let's say you create a startup for banking, and you need to create MVP for all of this feature:
 
-1. Issuing a bank card
-2. Transferring funds
+## Customers
 
-The main point that you should consider:
+1. Create a new customers
+2. Issuing a bank card
+3. Transferring funds
 
-1. Access control
-2. Security
+## Customer Service
+
+1. Managing customer data
+2. Blocking card
+
+## ATM
+
+1. Draw money
+2. Store money
+3. Transferring funds
+
+## System
+
+1. Automatic fraud detection system
