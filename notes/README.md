@@ -22,3 +22,7 @@ I put all notes from my experience as a software engineer here, to remind me abo
 ## Consistency
 
 - In event driven architecture, you must choose only one consistency whether it is the message broker or the database that should be consistent.
+
+## Reliability
+
+- Availability and consistency is not co-relevant with each others, high availability means less consistency. High consistency means low availability. The use of this happen when choosing no sql vs SQL, sql tends to offer consistency but no sql offer more availability.
